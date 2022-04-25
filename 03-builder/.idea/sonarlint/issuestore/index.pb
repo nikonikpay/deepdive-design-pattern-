@@ -1,0 +1,25 @@
+
+`
+0src/com/ali/builder/components/GPSNavigator.java,6\c\6c69125bfe24a114a1ea42e4e8bc085ec7723798
+T
+$src/com/ali/builder/cars/Manual.java,5\6\568a56df91552b3c3bde53ecde360bc61a71fcaf
+R
+"src/com/ali/builder/cars/Type.java,0\c\0c50034accad0d1d121df7eef1d53446dfda6117
+Z
+*src/com/ali/builder/components/Engine.java,2\1\2120be4554a542f283e93d291290b97d26a3b4ae
+`
+0src/com/ali/builder/components/Transmission.java,a\a\aa6751c0d328a89528ecee80fdf90210700db7ed
+`
+0src/com/ali/builder/components/TripComputer.java,2\2\22e5e839f736c7a8e77ebee1bd7c041b7289d8af
+b
+2src/com/ali/builder/builders/CarManualBuilder.java,a\2\a2a7a7a78175955aead961048f7af63770d6319f
+Y
+)src/com/ali/builder/builders/Builder.java,e\4\e4c1ffe169660e44c4a62c04962779cbdd93d133
+Z
+*src/com/ali/builder/director/Director.java,4\9\494b2689b34c64b4ec4fa8eaf98ba48f08a6ae66
+P
+ src/com/ali/builder/DemoApp.java,0\a\0a7fa78609d87132d43f0fd463f406d55e9734a5
+Q
+!src/com/ali/builder/cars/Car.java,1\2\12cb766ce6d93e41259c74440ef3b9f22d2ae005
+\
+,src/com/ali/builder/builders/CarBuilder.java,3\4\343b1824c8c48d0eebf80d04d5a8bd33d49b2889
